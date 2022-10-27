@@ -22,4 +22,4 @@
 * [Final Presentation Slides (PDF)]()
 * [Final Report]()
 
-Go here to see a basic dashboard of the project: *<marcostorrework.github.io>*
+Go here to see a basic dashboard of the project: <marcostorrework.github.io>
