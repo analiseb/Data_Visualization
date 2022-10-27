@@ -3,7 +3,7 @@ Go here to see a basic dashboard of the project: [Check it out!](https://marcost
 
 ## About the Project
 
-This dashboard targets students who are contemplating which major to pursue in their academic journeys. By painting a full-picture of all the majors available to them in terms of university demographics and also long term impacts, students will be empowered in their decision-making processes. The project's general goal is to convey major categories and individual majors in terms of demographics, popularity, employability (represented by type, and also full versus
+This dashboard targets students who are contemplating which major to pursue in their academic journeys. By conveying a full-picture of all the majors available to them in terms of university demographics and also long term impacts, students will be empowered in their decision-making processes. The project's general goal is to convey major categories and individual majors in terms of demographics, popularity, employability (represented by type, and also full versus
 part-time employment), and future economic success effectively.
 
 ## The Dataset
