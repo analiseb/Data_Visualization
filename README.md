@@ -15,7 +15,7 @@ part-time employment), and future economic success effectively.
 * [Use Stories](https://github.com/analiseb/Data_Visualization/blob/main/User%20Stories.pdf)
 * [Design Specification & User Feedback](https://github.com/analiseb/Data_Visualization/blob/main/Design%20Specifications%20%26%20User%20Feedback.pdf)
 
-### Jupyter Notebooks
+### Notebooks
 
 * [Data Cleaning & Exploratory Data Analysis](https://github.com/analiseb/Data_Visualization/blob/main/01_cleaning_and_EDA.ipynb)
 * [Altair Visualizations](https://github.com/analiseb/Data_Visualization/blob/main/02_altair_visualizations.ipynb)
