@@ -1,5 +1,5 @@
 # Data_Visualization
-Go here to see a basic dashboard of the project: [Check it out!](https://marcostorrework.github.io/)
+Go here to see a basic dashboard for the project: [Check it out!](https://marcostorrework.github.io/)
 
 ## About the Project
 
